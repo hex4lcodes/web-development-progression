@@ -8,3 +8,5 @@ Take a look at my other projects below:
 1. C programming: https://github.com/hex4lcodes/c-notes
 2. Python: https://github.com/hex4lcodes/python-filez
 3. Cybersecurity Writeups: https://github.com/hex4lcodes/cybersecurity-writeup
+
+**For right now each of these repos are for documentation purposes, please do not use or clone any part of this resource**
