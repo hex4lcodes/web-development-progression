@@ -6,6 +6,7 @@ This is a collection of all of my notes and projects created in HTML, CSS, Javas
 Take a look at my other projects below:
 
 C programming: https://github.com/hex4lcodes/c-notes
+
 Python: https://github.com/hex4lcodes/python-filez
 
 **For right now each of these repos are for documentation purposes, please do not use or clone any part of this resource without permission**
