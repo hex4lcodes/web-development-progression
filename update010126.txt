@@ -1,3 +1,4 @@
-UPDATE: A lot of the files in this repo (everything except quoes and abbreviations) are quite old (written in mid November - early December 2025). I promise I havent abandoned these projects, I got busy with other parts of life
+UPDATE: A lot of the files in this repo (everything except quoes and abbreviations) are quite old (written in mid November - early December 2025). 
+I promise I havent abandoned these projects, I got busy with other parts of life
 I will be working on some stuff to go in this repo starting tomorrow (this is being written 1/1/26 so 1/2/2026) right now Im mostly working on getting the other two up to speed
 with projects and works
