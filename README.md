@@ -10,4 +10,6 @@ C programming: https://github.com/hex4lcodes/c-notes
 
 Python: https://github.com/hex4lcodes/python-filez
 
+Pascal: https://github.com/hex4lcodes/pascal-learningg
+
 **For right now each of these repos are for documentation purposes, please do not use or clone any part of this resource without permission**
