@@ -1,0 +1,1 @@
+This contains a bunch of files for a brown bear project that started from inspiration from Codecademy.
