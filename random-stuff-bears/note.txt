@@ -1,1 +1,4 @@
 This contains a bunch of files for a brown bear project that started from inspiration from Codecademy.
+
+UPDATE 02/05/2026: I could not upload the video due to size limits, but you can subsitute it for any video of brown bears
+If anything is broken or goes wrong, feel free to send me a pull request.
