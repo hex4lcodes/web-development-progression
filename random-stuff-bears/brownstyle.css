@@ -1,0 +1,53 @@
+
+#top-navbar {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    background-color: aqua;
+    display: flex; /*line up items side by side*/
+    justify-content: center; /*left/ right spaning*/
+}
+
+#top-navbar li {
+    padding: 16px 14px;
+}
+
+body {
+
+    background-color: purple;
+}
+
+table, td, th{
+
+    border: 2px solid black;
+    width: 50%;
+    text-align: center;
+}
+
+table {
+
+    border-collapse: collapse;
+    background-color: bisque
+}
+
+
+
+.page-nav {
+    list-style: none;
+    margin-top: 20px;
+    padding: 8px 16px;
+    background-color: yellow;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+    /*gap: 20px; space for links*/     
+}
+
+
+
+a {
+    text-decoration: none;
+    display: block;
+    color: black;
+}
