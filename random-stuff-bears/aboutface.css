@@ -1,0 +1,25 @@
+
+#upper-navbar {
+
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: orange;
+    display: flex; /*line up items side by side*/
+    justify-content: center; /*left/ right spaning*/
+}
+
+#upper-navbar li {
+
+    padding: 14px 16px;
+}
+
+body{
+
+    background-color: aquamarine;
+}
+a {
+    text-decoration: none;
+    display: block;
+    color: black;
+}
